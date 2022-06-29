@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/0.png</file>
+        <file>res/140.png</file>
+        <file>res/141.png</file>
+        <file>res/142.png</file>
+        <file>res/143.png</file>
+        <file>res/144.png</file>
+        <file>res/145.png</file>
+        <file>res/146.png</file>
+        <file>res/147.png</file>
+        <file>res/150.png</file>
+        <file>res/160.png</file>
+        <file>res/161.png</file>
+        <file>res/170.png</file>
+        <file>res/171.png</file>
+        <file>res/180.png</file>
+        <file>res/190.png</file>
+        <file>res/240.png</file>
+        <file>res/241.png</file>
+        <file>res/242.png</file>
+        <file>res/244.png</file>
+        <file>res/245.png</file>
+        <file>res/246.png</file>
+        <file>res/247.png</file>
+        <file>res/250.png</file>
+        <file>res/251.png</file>
+        <file>res/260.png</file>
+        <file>res/261.png</file>
+        <file>res/270.png</file>
+        <file>res/271.png</file>
+        <file>res/280.png</file>
+        <file>res/290.png</file>
+        <file>res/151.png</file>
+        <file>res/243.png</file>
+        <file>res/bg1.jpg</file>
+        <file>res/bg2.jpg</file>
+        <file>res/checker.png</file>
+        <file>res/1.png</file>
+        <file>res/chess.png</file>
+        <file>res/game.png</file>
+    </qresource>
+</RCC>
